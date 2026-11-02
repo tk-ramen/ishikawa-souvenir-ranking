@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/ishikawa-souvenir-ranking/sitemap.xml
